@@ -1,4 +1,3 @@
-# Walmart-Sales-Analytics-Mysql-
 # Walmart Sales Data Analysis
 
 ## About
@@ -145,7 +144,7 @@ $ \text{Gross Margin Percentage} = \frac{\text{gross income}}{\text{total revenu
 
 ## Code
 
-For the rest of the code, check the [SQL_queries.sql]() file
+For the rest of the code, check the [SQL_queries.sql](https://github.com/AakashRajpurohitMohansingh/Walmart-Sales-Analytics-Mysql-/blob/main/MySQL%20Query%20File.sql) file
 
 ```sql
 -- Create database
